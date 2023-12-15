@@ -1,8 +1,17 @@
 # Sistema para Gestión Instituciones Educativas 
-Este sistema está enfocado en la automatización y mejora de calidad de múltiples tareas vinculadas a la Gestión Educativa. Está implementado en la Escuela Técnica N°20 "Carolina Muzzilli", CABA, Argentina.
+*Este sistema está enfocado en la automatización y mejora de calidad de múltiples tareas vinculadas a la Gestión Educativa.*
 
-Se compone de diversos productos de la plataforma Google, debido a la previa familiaridad del equipo de conducción con estas herramientas, integrados mediante funcionalidades creadas con Apps Script (plataforma de Javascript). https://workspace.google.com/intl/es-419_ar/products/apps-script/
-— -
-Este repositorio está compuesto por los distintos archivos
-Composición detallada:
-- Bases de datos 
+> *Está implementado en la Escuela Técnica N°20 "Carolina Muzzilli", CABA, Argentina.*
+
+
+## Descripción
+Consta de diversos productos de la plataforma Google, debido a la previa familiaridad del equipo de conducción con estas herramientas, integrados mediante funcionalidades personalizdas creadas con [Apps Script](https://workspace.google.com/intl/es-419_ar/products/apps-script/) (plataforma de Javascript).
+
+#### Funciones:
+- Conformación de bases de datos de información del alumnado como datos personales, historial académico y calificaciones del año en curso.
+- Interpretación del historial académico de cada alumno/a.
+- Generación de Informes de Valoraciones, traccionando tanto calificaciones del año en curso como la información de su historial académico.
+- Índices de aprobación de cada curso, segmentado por asignatura e instancia del año.
+- Inscripción a exámenes previos validada con la base de datos, generación de permisos de examen individuales y actas volantes.
+- Elaboración de sistema de votación para un proyecto institucional, que consistió en la elección del nombre de la escuela por parte de la comunidad educativa (alumnos, profesores y padres).
+
