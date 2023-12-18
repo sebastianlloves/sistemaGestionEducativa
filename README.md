@@ -22,3 +22,10 @@ En cada carpeta del repositorio se alojan los archivos de visualización e inter
 
 
 
+---
+
+> Correo [sebastianlloves@gmail.com](sebastianlloves@gmail.com)  &nbsp;&middot;&nbsp;
+>    Linkedin [in/sebastianlloves](https://www.linkedin.com/in/sebastianlloves)  &nbsp;&middot;&nbsp;
+>    GitHub [/sebastianlloves](https://github.com/sebastianlloves)
+
+
