@@ -1,20 +1,24 @@
-# Sistema para Gestión de Instituciones Educativas 
-*Este sistema está enfocado en la automatización y mejora de calidad de múltiples tareas vinculadas a la Gestión Educativa.*
+# Sistema para Gestión Académica de Instituciones Educativas
+ 
+*Este sistema está enfocado en la automatización y mejora de calidad de múltiples tareas vinculadas a la gestión académica.*
 
-*Está implementado en la Escuela Técnica N°20 "Carolina Muzzilli", CABA, Argentina.*
+*Actualmente está implementado en la Escuela Técnica N°20 "Carolina Muzzilli", CABA, Argentina, donde brinda soluciones a más de 700 miembros de la comunidad educativa.*
 
 
 ## Descripción
 Consta de diversos productos de la plataforma Google, debido a la previa familiaridad del equipo de conducción de la institución con estas herramientas, integrados mediante funcionalidades personalizdas creadas con [Apps Script](https://workspace.google.com/intl/es-419_ar/products/apps-script/) (plataforma de Javascript).
 
-#### Funciones:
+#### Características:
 - Conformación de bases de datos del alumnado (datos personales, historial académico y calificaciones del año en curso).
-- Interpretación del historial académico de cada alumno/a.
-- Generación de Boletin de Calificaciones del alumnado, compuesto tanto por calificaciones del año en curso como la información de su historial académico.
+- Generación de Boletin de Calificaciones del alumnado, compuesto tanto por calificaciones del año en curso como la información interpretada de su historial académico.
 - Índices de aprobación de cada curso, segmentado por asignatura e instancia del año.
-- Inscripción a exámenes previos validada con la base de datos, generación de permisos de examen individuales y actas volantes.
+- Inscripción a exámenes previos validada con la base de datos, mail con el resultado de la inscripción en  base a esta validación, generación de permisos de examen individuales y actas volantes.
 - Elaboración de un sistema de votación para el proyecto institucional de elección del nombre de la escuela por parte de la comunidad educativa (votaron alumnos, profesores y padres).
 
 
+## Composición
 
-> El repositorio está organizado por carpetas que alojan los archivos y scripts pertinentes a cada función. 
+En cada carpeta del repositorio se alojan los archivos de visualización e interacción, y los scripts de cada funcionalidad vinculada. 
+
+
+
