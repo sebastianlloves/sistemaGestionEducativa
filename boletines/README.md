@@ -1,11 +1,11 @@
-# Base de datos de calificaciones y generación de boletines
-
-### Acceso: ***[Link al archivo](https://docs.google.com/spreadsheets/d/1xQncn-ytWXD-7I0Uiazqe68I0pUFRjMuVUY_q1jWKoY/edit#gid=1773124379)***  
-
-> *Este es un ejemplo, en la implementación real se utiliza un archivo por curso*
+ # Base de datos de calificaciones y generación de boletines
 
 ## Descripción
 
-En este archivo además de recopilar información, se aplican funciones personalizadas escritas con [Apps Script](https://workspace.google.com/intl/es-419_ar/products/apps-script/) que tienen el objetivo de interpretar la información de cada alumno y conformar la descripción literaria que será traccionada a los boletines individuales.
+Cada curso de la institución cuenta con un archivo como el del link. Estos permiten recopilar las notas de cada asignatura del curso en cuestión, y generar automáticamente los boletines individuales del alumnado (traccionando tanto calificaciones del año en curso como la información de su historial académico).
 
-Esta interpretación contempla la normativa actual que plantea una subclasificación de las materias en "Troncales" y "Generales". Además discrimina las materias que resultaron desaprobadas en el 2020, denominadas "En Proceso", que computan distinto al resto.
+### Acceso a ejemplos: 
+
+***[Link al archivo](https://docs.google.com/spreadsheets/d/1xQncn-ytWXD-7I0Uiazqe68I0pUFRjMuVUY_q1jWKoY/edit#gid=1773124379)***  
+
+***[Link al archivo](https://docs.google.com/spreadsheets/d/1q0YihuOkm4uAnAphqTaB3ntrEWPb1ViNupEQrGQyiKM/edit#gid=790398132)***  
