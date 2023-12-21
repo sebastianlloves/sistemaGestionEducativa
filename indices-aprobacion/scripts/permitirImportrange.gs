@@ -2,12 +2,12 @@
 
 
 function AGREGAR_PERMISO_IMPORTRANGE(fileId, donorId) {
-  var url = 'https://docs.google.com/spreadsheets/d/' +
+  const url = 'https://docs.google.com/spreadsheets/d/' +
     fileId +
     '/externaldata/addimportrangepermissions?donorDocId=' +
     donorId;
-  var token = ScriptApp.getOAuthToken();
-  var params = {
+  const token = ScriptApp.getOAuthToken();
+  const params = {
     method: 'post',
     headers: {
       Authorization: 'Bearer ' + token,
