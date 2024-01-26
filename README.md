@@ -27,6 +27,6 @@ En cada carpeta del repositorio se alojan los archivos de visualización y carga
 ---
 
 > Correo [sebastianlloves@gmail.com](sebastianlloves@gmail.com)  &nbsp;&nbsp;&nbsp;&middot;&nbsp;&nbsp;&nbsp;
->    Linkedin [in/sebastianlloves](https://www.linkedin.com/in/sebastianlloves)  &nbsp;&nbsp;&nbsp;
+> Linkedin [in/sebastianlloves](https://www.linkedin.com/in/sebastianlloves)  &nbsp;&nbsp;&nbsp;
 
 
