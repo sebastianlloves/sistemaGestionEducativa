@@ -18,7 +18,7 @@ Consta de diversos productos de la plataforma Google, debido a la previa familia
 
 ## Composición
 
-En cada carpeta del repositorio se alojan los archivos de visualización y carga, y los scripts de cada funcionalidad vinculada. 
+En cada carpeta del repositorio se alojan los archivos de visualización y carga, y los scripts de cada funcionalidad asociada. 
 
 
 
