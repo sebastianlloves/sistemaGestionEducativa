@@ -1,7 +1,8 @@
-<h1 align="center">Inscripción a Exámenes Previos<h1/>
+<h1 align="center">Inscripción a Exámenes Previos</h1>
+  <br/>
 <h2>Descripción</h2>
 
-Se utiliza un formulario de Google para realizar la inscripción, en el cual el alumnado sólo debe ingresar su dni y seleccionar las materias a las cuales desea inscribirse. Una vez enviado el formulario, mediante un script, se valida si ese dni está incluído en la base de datos del alumnado y el resultado se informa vía mail al correo del alumno/a. 
+<p>Se utiliza un formulario de Google para realizar la inscripción, en el cual el alumnado sólo debe ingresar su dni y seleccionar las materias a las cuales desea inscribirse. Una vez enviado el formulario, mediante un script, se valida si ese dni está incluído en la base de datos del alumnado y el resultado se informa vía mail al correo del alumno/a.</p> 
 
 Además, de haber sido válida la inscripción, el detalle de la misma se registra en una tabla con un formato específico que permite posteriormente generar las actas volantes de cada materia, con el listado del alumnado inscripto a la misma.
 
