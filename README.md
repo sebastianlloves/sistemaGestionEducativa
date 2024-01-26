@@ -4,6 +4,7 @@
 
 *Actualmente está implementado en la Escuela Técnica N°20 "Carolina Muzzilli", CABA, Argentina, donde brinda soluciones a más de 700 miembros de la comunidad educativa.*
 
+<br/>
 
 ## Descripción
 Consta de diversos productos de la plataforma Google, debido a la previa familiaridad del equipo de conducción de la institución con estas herramientas, integrados mediante funcionalidades personalizdas creadas con [Apps Script](https://workspace.google.com/intl/es-419_ar/products/apps-script/) (plataforma de Javascript).
@@ -15,12 +16,13 @@ Consta de diversos productos de la plataforma Google, debido a la previa familia
 - Inscripción a exámenes previos validada con la base de datos, respuesta vía mail del resultado de esta validación y detalle de la inscripción, generación de permisos de examen individuales y actas volantes.
 - Elaboración de un sistema de votación para el proyecto institucional de elección del nombre de la escuela por parte de la comunidad educativa (votaron alumnos, profesores y padres).
 
+<br/>
 
 ## Composición
 
 En cada carpeta del repositorio se alojan los archivos de visualización y carga, y los scripts de cada funcionalidad asociada. 
 
-
+<br/>
 
 ---
 
