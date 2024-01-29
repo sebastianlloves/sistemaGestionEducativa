@@ -6,7 +6,7 @@
 
 Además, de haber sido válida la inscripción, el detalle de la misma se registra en una tabla con un formato específico que permite posteriormente generar las actas volantes de cada materia, con el listado del alumnado inscripto a la misma.
 
-Por último, el archivo que contiene esta tabla, cuenta con otra funcionalidad personalizada que al ser ejecutada interpreta la tabla y genera todos los permisos de examen individuales de los inscriptos en formato pdf, con el detalle específico de las materias incluídas en cada caso. Estos permisos de examen generados se guardan automáticamente en el Drive institucional, organizados por instancia de evaluación.
+Por último, el archivo que contiene esta tabla, cuenta con otra funcionalidad personalizada que permite interpretar la tabla y generar automáticamente todos los permisos de examen individuales de los inscriptos en formato pdf, con el detalle específico de las materias incluídas en cada caso. Luego de generarse, estos permisos de examen generados se guardan en el Drive institucional, organizados por instancia de evaluación.
 
 <br/>
 
