@@ -1,4 +1,4 @@
-# Sistema para Gestión Académica de Instituciones Educativas
+<h1 align="center">Sistema para Gestión Académica de Instituciones Educativas</h1>
  
 *Este sistema está enfocado en la automatización y mejora de calidad de múltiples tareas vinculadas a la gestión académica.*
 
