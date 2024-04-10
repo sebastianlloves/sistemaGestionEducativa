@@ -2,7 +2,7 @@
   <br/>
 <h2>Descripción</h2>
 
-En este archivo, mediante funciones personalizadas desarrolladas con [Apps Script](https://workspace.google.com/intl/es-419_ar/products/apps-script/), se recopilan las calificaciones de cada asignatura en todos los cursos, para devolver el indíce de aprobación (cantidad de aprobados / total alumnos del curso). Se elaboran estos índices para cada cierre parcial de calificaciones del ciclo lectivo en curso.
+En este archivo, mediante funciones personalizadas desarrolladas con [Apps Script](https://workspace.google.com/intl/es-419_ar/products/apps-script/), se automatiza la recopilación de las calificaciones de cada asignatura en todos los cursos, para calcular y devolver el indíce de aprobación (cantidad de aprobados / total alumnos del curso). Se elaboran estos índices para cada cierre parcial de calificaciones del ciclo lectivo en curso.
 
 <br/>
 
