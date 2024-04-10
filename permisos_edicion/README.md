@@ -2,7 +2,7 @@
   <br/>
 <h2>Descripción</h2>
 
-Para evitar la modificación de datos involuntaria y/o sin autorización, todos los archivos de carga tienen definidos usuarios habilitados para la edición de rangos específicos. 
+Para evitar la modificación de datos involuntaria y/o sin autorización, todos los archivos tienen definidos rangos específicos de edición con sus correspondientes usuarios habilitados. 
 
 En particular, para los archivos de carga de calificaciones de cada materia para todos los cursos (+20 archivos, donde cada uno contiene +10 materias) los permisos de edición se actualizan automáticamente ante cualquier modificación en la planta docente. Este modificación se genera mediante scripts que interpretan la base de datos de docentes y su vinculación a cada materia y curso, y ejecutan las actualizaciones necesarias.
  
