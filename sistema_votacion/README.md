@@ -4,7 +4,7 @@
 
 Ante la necesidad de definir un nombre para la Institución, la comunidad educativa completa llevó a cabo un proyecto de elección del nombre mediante una serie de votaciones en las que participaron docentes, alumnos y familiares de alumnos. 
 
-Para este fin se utilizó Google Forms para realizar la votación, donde los votantes sólo debía ingresar su dni y seleccionar los nombres a votar. Una vez enviado el voto, mediante funcionalidades personalizadas, se valida si ese dni está incluído en la base de datos del alumnado o planta docente. De ser válido el voto, este se vuelca en un registro el cual es interpretado para confeccionar un recuento automático de votos y porcentual de cada candidato, recuento y detalle de los electores que no votaron y otras estadísticas.
+Para este fin se utilizó Google Forms para realizar la votación, donde los votantes únicamente ingresan su dni y seleccionan los nombres a votar. Una vez enviado el voto, mediante funcionalidades personalizadas, se valida si el dni del votante está incluído en la base de datos del alumnado o planta docente y si aún no tiene un voto registrado. De ser válido el voto, este se vuelca en un registro el cual es interpretado para confeccionar un recuento automático de votos y porcentual de cada candidato, recuento y detalle de los electores que no votaron, entre otras estadísticas.
 
 <br/>
 
